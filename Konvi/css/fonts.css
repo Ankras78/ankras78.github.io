@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "MicraNormal";
+	src: url("../fonts/MicraNormal/MicraNormal.eot");
+	src: url("../fonts/MicraNormal/MicraNormal.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/MicraNormal/MicraNormal.woff") format("woff"),
+	url("../fonts/MicraNormal/MicraNormal.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}

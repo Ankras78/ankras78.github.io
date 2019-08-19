@@ -1,0 +1,246 @@
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width : 1960px) {
+	
+}
+@media only screen and (max-width : 1690px) {
+	
+}
+@media only screen and (max-width : 1520px) {
+	
+}
+@media only screen and (max-width : 1400px) {
+	
+}
+@media only screen and (max-width : 1290px) {
+	.hc-div  .hc-schedule, .hc-div  .hc-phone {
+		width: 260px; }
+}
+@media only screen and (max-width : 1260px) {
+	
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	
+}
+@media only screen and (max-width : 1180px) {
+	#owl6 { width: 950px; }
+}
+@media only screen and (max-width : 1120px) {
+	.hc-abs1 { top: 60px; }
+	.hc-div { margin-left: 0; }
+}
+@media only screen and (max-width : 1080px) {
+	
+	.oa-div {font-size: 10px; width: 290px;}
+}
+@media only screen and (max-width : 1024px) {
+	.header-right-div .labels { display: none; }
+	.hc-abs2 { display: none; }
+}
+@media only screen and (max-width : 1020px) {
+	#owl6 { width: 760px; }
+}
+@media only screen and (max-width : 998px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	#sitemap {display: none;}
+}
+@media only screen and (max-width : 960px) {
+	
+	.oa-div {width: 308px;}
+}
+@media only screen and (max-width : 900px) {
+	.hc-div  .hc-phone, .hc-div  .hc-address {
+		font-size: 10px; }
+	.head-contacts  .hc-schedule {
+		font-size: 8px; }
+	.hc-div  .hc-address { width: 250px; }
+	.hc-div  .hc-schedule, .hc-div  .hc-phone {
+		width: 200px; }
+	.oa-div {/*width: 174px; background-position: 50% 0%;*/}
+}
+@media only screen and (max-width : 860px) {
+	#search-input { width: 300px; height: 30px; }
+	.oa-div {font-size: 10px; width: 200px;}
+	.search-form {padding-top: 26px;}
+}
+@media only screen and (max-width : 820px) {
+	#owl6 { width: 570px; }
+}
+@media only screen and (max-width : 769px) {
+	
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.header-left-shell .labels {
+		display: block;
+		margin-right: 20px; }
+	.info { left: 62px; }
+	#owl2 { width: 80%; }
+	.karusel { display: none; }
+}
+
+@media only screen and (max-width : 767px) {
+	#feedback { display: none;}
+	#feedback2 { display: block;}
+	.footer { height: 420px; }
+}
+
+@media only screen and (max-width : 690px) {
+	.hc-div .hc-schedule, .hc-div .hc-phone {
+		width: 155px; }
+	.hc-div .hc-address { width: 230px; }
+	.hc-div .info { left: 42px; }
+	/*.ecologic-div, .loyal-div {float: none;}  */
+}
+@media only screen and (max-width : 680px) {
+	#owl5 { width: 80%; }
+}
+@media only screen and (max-width : 668px) {
+	.oa-div {width: 174px;}
+	.i-header, .oa-header {font-size: 16px;}
+	.for-new-clients .i-header {width: 490px;}
+	.oa-header {width: 418px;}
+}
+@media only screen and (max-width : 640px) {
+	.menu-shell { display: none; }
+	.menu_mob-shell { display: block; }
+	#owl6 { width: 380px; }
+}
+@media only screen and (max-width : 600px) {
+	
+	.oa-div {font-size: 9px; width: 160px;}
+}
+@media only screen and (max-width : 570px) {
+	.hc-div .hc-schedule .info, .hc-div .hc-phone .info, .hc-div .hc-address .info {
+		top: 54px; left: -42px; }
+	.hc-div .hc-schedule, .hc-div .hc-phone {
+		width: 132px; font-size: 8px; }
+	.hc-div .hc-address {
+		width: 145px; font-size: 8px; }
+	.head-contacts { height: 92px; }
+	.hc-abs1 { top: 88px; }
+}
+@media only screen and (max-width : 560px) {
+	.header-left-shell .labels { display: none; }
+}
+@media only screen and (max-width : 540px) {
+	#owl4 { width: 64%; }
+}
+@media only screen and (max-width : 500px) {
+	/*.oa-header {font-size: 14px;}
+	.oa-header {width: 418px;} */
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+	#search-input { width: 220px; }
+	.i-header, .oa-header {font-size: 12px;}
+	.for-new-clients .i-header {width: 388px;}
+	.oa-header {width: 340px;}
+	
+	.ecologic { background: url(../images/advantages_s.png) no-repeat 0px 0px;
+		width: 56px; height: 60px;}
+	.sert {background: url(../images/advantages_s.png) no-repeat 0px -100px;
+		width: 72px; height: 60px;}
+	.loyal {background: url(../images/advantages_s.png) no-repeat 0px -400px;
+		width: 60px; height: 62px;}
+	.standarts {background: url(../images/advantages_s.png) no-repeat 0px -208px;
+		width: 60px; height: 62px;}
+	.terms {background: url(../images/advantages_s.png) no-repeat 0px -500px;
+		width: 56px; height: 64px;}
+	.team {background: url(../images/advantages_s.png) no-repeat -2px -290px;
+		width: 86px; height: 62px;}
+	.oa-div {width: 112px; height: 124px;}
+	.i-header {font-size: 10px;}
+	.for-new-clients .i-header {background: url(../images/i.jpg) no-repeat 100px 100px; /* <<< "убрал" фон "i" */
+		width: 284px; height: 28px; padding-left: 20px;}
+	.our-advantages {height: 304px;}
+}
+
+@media only screen and (max-width : 440px) {
+	
+	.header-right-div .contacts { width: 48px; }
+	.header-right-div .contacts-img {
+		margin-right: 8px; }
+	.header-right-div .lng {
+		font-size: 16px; width: 48px;
+		margin-right: 8px; }
+	.header-right-div .lng:before {
+		height: 12px; width: 16px;
+		margin-top: 12PX; margin-left: 2px; }
+	.header-right-div .goods { width: 32px; }
+	.header-right-div, .header-right-div2, .search-form  {
+		/*height: 64px;*/ }
+	.header-right-div .search, .header-right-div2 .search {
+		width: 64px; }
+	.header-right-div .search-img, .header-right-div2 .search-img {
+		margin-top: 25px; margin-right: 14px; }
+		.hc-div .hc-phone, .hc-div .hc-address {
+			display: none; }
+		.hc-div .hc-schedule {
+			width: 220px; margin-left: 20px; }
+		.hc-div { text-align: left; }
+		.hc-div .hc-schedule .info {
+			top: 17px; left: 78px; }
+		.head-contacts { height: 63px; }
+		.hc-zasada-div {
+			display: block; margin-top: -5px; }
+	.hc-abs1 { top: 190px; }
+}
+@media only screen and (max-width : 430px) {
+	
+}
+@media only screen and (max-width : 410px) {
+	#owl6 { width: 190px; }
+}
+@media only screen and (max-width : 394px) {
+	#owl5 { width: 70%; }
+}
+@media only screen and (max-width : 380px) {
+	#owl2 { width: 74%; }
+	.oa-header {font-size: 10px;}
+	.oa-header {width: 312px;}
+}
+@media only screen and (max-width : 360px) {
+	
+}
+@media only screen and (max-width : 344px) {
+	.feedback-form { width: 318px;}
+	
+}
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+	.oa-div {font-size: 7px; width: 98px;}
+	.oa-header {width: 288px;}
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+	
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
