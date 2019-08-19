@@ -1,0 +1,216 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	/*	.container {	
+			max-width: 540px;
+		} */
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1020px) {
+	
+}
+@media only screen and (max-width : 995px) {
+	.header-menu nav li {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+	.header-collection-shell {
+		margin-left: 400px; }
+	.bb-blocks { width: 19%; }
+	.brand-items-shell li { width: 18.3%; }
+	.posters .posters-title { font-size: 16px; }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 940px) {
+	
+}
+
+@media only screen and (max-width : 770px) {
+	.izbrannoe, .korzina { 
+		width: 70px;	
+		padding-left: 30px;
+	}
+	.header-menu-right .izbrannoe {
+		background-position: 8px 22px;
+	}
+	.header-menu-right .korzina {
+		background-position: 8px 24px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+@media only screen and (max-width : 767px) {
+	.posters .posters-title { font-size: 48px; }
+	.blognews { margin-top: 4px; }
+}
+
+@media only screen and (max-width : 720px) {
+	.brand-items-shell .collection {
+		font-size: 14px; }
+}
+
+@media only screen and (max-width : 680px) {
+	.header-collection-shell {
+		margin-left: 300px; }
+}
+
+@media only screen and (max-width : 660px) {
+	.header-menu nav li {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}
+
+@media only screen and (max-width : 640px) {
+	.brand-items-shell li { width: 18%; }
+	.brand-items-shell .descr { font-size: 10px; }
+}
+
+@media only screen and (max-width : 610px) {
+	#menu { display: none;}
+	#menu2 { display: block; }
+	#menu-btn { display: block; }
+	.header-menu { width: 180px; }
+	.header-menu nav { padding-top: 4px; }
+	.header-menu nav {
+		position: absolute;
+		top: 100%;
+		left: -15px;
+		/*display: none;*/
+		background-color: #fff;
+		z-index: 100;
+		/*width: 180px;*/
+	}
+	.header-menu nav li {
+		display: block;
+		border-top: 1px solid #eeeeee;
+		/*width: 180px;
+		outline: 1px solid red;*/
+		height: 40px;
+		padding: 0;
+	}
+	.header-menu nav li a {
+		/*display: block;
+		width: 100%;*/
+		display: table-cell;
+		vertical-align: middle;
+		width: 180px;
+		height: 40px;
+		padding-left: 10px;
+	}
+	.header-menu nav li a span {
+		/*display: table-cell;
+		vertical-align: middle;
+		height: 40px;*/
+	}
+	.posters .posters-title { font-size: 34px; }
+}
+
+@media only screen and (max-width : 600px) {
+	.search-btn { display: none; }
+	.header { height: 90px; }
+	.loginreg { display: block; }
+}
+
+@media only screen and (max-width : 580px) {
+	.header-collection-shell {
+		margin-left: 160px; }
+	.brand-items-shell .collection {
+		font-size: 12px; }
+}
+
+@media only screen and (max-width : 520px) {
+	.brand-items-shell .collection {
+		font-size: 11px; }
+	.brand-items-shell .descr {
+		font-size: 9px; }
+}
+
+@media only screen and (max-width : 500px) {
+	.header-collection-shell { margin-left: 80px; }
+	.posters .posters-title { font-size: 28px; }
+	#socials { display: none; }
+	#socials-micro { display: block; }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+@media only screen and (max-width : 470px) {
+	.black-bar { display: none; }
+	.brand-items { height: auto; padding-top: 0;	}
+	.brand-items-shell {	margin-top: 0; }
+	.brand-items-shell li {
+		display: block; width: 100%; }
+	
+	.brand-items .collection { font-size: 20px; }
+	.brand-items .descr { font-size: 12px; }
+	.promotions h2 { font-size: 18px; }
+}
+
+@media only screen and (max-width : 400px) {
+	.header-menu { width: 120px; }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+@media only screen and (max-width : 380px) {
+	.hc-name {
+		font-size: 24px;
+		line-height: 28px; }
+	.hc-description {
+		font-family: 'AllerLight', sans-serif;
+		font-size: 16px; }
+	.header-picture-bg, .header-picture { height: 380px; }
+	.header-picture { padding-top: 48px; }
+	.promotions h2 { font-size: 14px; }
+	.showall { padding: 4px 8px; }
+	.footer-top h3 { font-size: 10px; }
+}
+
+@media only screen and (max-width : 360px) {
+	.login-div { width: 100px; }
+}
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}

@@ -1,0 +1,39 @@
+@font-face {
+	font-family: "AllerRegular";
+	src: url("../fonts/AllerRegular/AllerRegular.eot");
+	src: url("../fonts/AllerRegular/AllerRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerRegular/AllerRegular.woff") format("woff"),
+	url("../fonts/AllerRegular/AllerRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "AllerLight";
+	src: url("../fonts/AllerLight/AllerLight.eot");
+	src: url("../fonts/AllerLight/AllerLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerLight/AllerLight.woff") format("woff"),
+	url("../fonts/AllerLight/AllerLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "AllerBold";
+	src: url("../fonts/AllerBold/AllerBold.eot");
+	src: url("../fonts/AllerBold/AllerBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerBold/AllerBold.woff") format("woff"),
+	url("../fonts/AllerBold/AllerBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "AllerItalic";
+	src: url("../fonts/AllerItalic/AllerItalic.eot");
+	src: url("../fonts/AllerItalic/AllerItalic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/AllerItalic/AllerItalic.woff") format("woff"),
+	url("../fonts/AllerItalic/AllerItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
